@@ -1,0 +1,5 @@
+.metadata/
+Servers/
+apache-tomcat*/
+*.DS_Store
+build/
